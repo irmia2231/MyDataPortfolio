@@ -22,14 +22,6 @@ Welcome to my data analysis journey! This portfolio showcases real-world project
 **Visual Storytelling** - Create compelling charts and dashboards  
 **Business Impact** - Translate findings into actionable recommendations
 
-## Featured Projects
-
-*Each project includes detailed Jupyter notebooks with complete analysis workflows*
-
-- **Project 1**: [Brief description]
-- **Project 2**: [Brief description] 
-- **Project 3**: [Brief description]
-
 ## Skills Demonstrated
 
 - Data Collection & Acquisition
