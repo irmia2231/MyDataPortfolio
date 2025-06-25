@@ -1,52 +1,58 @@
-Data Analyst Portfolio
-Welcome to my data analyst portfolio! This repository showcases a collection of projects demonstrating my skills in data analysis, data cleaning, visualization, and actionable insights generation. My learning journey includes comprehensive training through Datacamp and extensive exploration of various open-source data resources and tools.
+# Data Analyst Portfolio
 
-About This Portfolio
-This portfolio serves as a practical demonstration of my capabilities in the data analysis lifecycle. Each project aims to solve a specific problem or extract valuable insights from raw data, including datasets that require significant cleaning and preprocessing. I believe in a hands-on approach, and these projects reflect my commitment to turning data into understandable and actionable information.
+> Transforming raw data into actionable insights through comprehensive analysis and compelling visualizations.
 
-Skills Demonstrated
-Through the projects in this repository, I demonstrate proficiency in:
+## About
 
-Data Collection & Acquisition: Sourcing data from various open-source platforms.
+Welcome to my data analysis journey! This portfolio showcases real-world projects where I tackle messy datasets, uncover hidden patterns, and deliver data-driven solutions. From data collection to final insights, each project demonstrates the complete analytical lifecycle.
 
-Data Cleaning & Preprocessing: Handling missing values, outliers, data type conversions, and inconsistent formats.
+## Tech Stack
 
-Exploratory Data Analysis (EDA): Summarizing main characteristics of data, often with visual methods.
+**Languages & Libraries:**
+- **Python** | Pandas • NumPy • Matplotlib • Seaborn
+- **SQL** | PostgreSQL • MySQL
 
-Statistical Analysis: Applying statistical techniques to uncover trends and relationships.
+**Visualization Tools:**
+- Power BI •Tableau(Soon)
 
-Data Visualization: Creating compelling and informative charts and dashboards.
+## What I Do
 
-Reporting & Communication: Presenting findings clearly and concisely.
+**Data Detective Work** - Clean messy datasets and handle missing values  
+**Statistical Analysis** - Uncover trends and relationships in data  
+**Visual Storytelling** - Create compelling charts and dashboards  
+**Business Impact** - Translate findings into actionable recommendations
 
-SQL Querying: (If applicable to any projects) Efficiently retrieving and manipulating data from databases.
+## Featured Projects
 
+*Each project includes detailed Jupyter notebooks with complete analysis workflows*
 
-Programming Languages: Python, SQL
+- **Project 1**: [Brief description]
+- **Project 2**: [Brief description] 
+- **Project 3**: [Brief description]
 
-Libraries:
+## Skills Demonstrated
 
-Pandas (for data manipulation and analysis)
+- Data Collection & Acquisition
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Data Visualization
+- Business Reporting
 
-NumPy (for numerical operations)
+## Getting Started
 
-Matplotlib (for static visualizations)
+```bash
+git clone https://github.com/yourusername/data-analyst-portfolio
+cd data-analyst-portfolio
+pip install -r requirements.txt
+jupyter lab
+```
 
-Seaborn (for enhanced statistical visualizations)
+## Let's Connect
 
-Databases: SQL (e.g., PostgreSQL, MySQL, SQLite - specify if used)
+**LinkedIn:** [Natchanon Narksing](https://www.linkedin.com/in/natchanon-narksing-aa6848333/)  
+**Email:** natchanon.irmia@hotmail.com
 
-Visualization Tools: (e.g., Tableau, Power BI, Looker Studio - if used for dashboards)
+---
 
-To view the Jupyter Notebooks, you can clone this repository and open them in Jupyter Lab/Notebook, or simply view them directly on GitHub.
-
-
-Contact & Connect
-
-I'm always open to discussing data, projects, and opportunities!
-
-LinkedIn: https://www.linkedin.com/in/natchanon-narksing-aa6848333/
-
-Email: natchanon.irmia@hotmail.com
-
-Thank you for visiting my portfolio!
+*"In data we trust, but first we clean it."*
